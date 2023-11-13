@@ -8,6 +8,4 @@ function printSortedNames(names) {
     }
 }
 
-// Example usage:
-const inputNames = ["John", "Bob", "Christina", "Ema"];
-printSortedNames(inputNames);
+printSortedNames(["John", "Bob", "Christina", "Ema"]);

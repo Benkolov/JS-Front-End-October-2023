@@ -5,7 +5,7 @@ function extractEveryNthElement(arr, step) {
     for (let i = 0; i < arr.length; i += step) {
         result.push(arr[i]);
     }
-    // result = result.join("\n");
+
     return result;
 }
 
