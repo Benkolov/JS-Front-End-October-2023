@@ -10,11 +10,5 @@ function revealWords(wordsList, template) {
     return template;
 }
 
-
-const wordsList1 = 'great';
-const template1 = 'softuni is ***** place for learning new programming languages';
-console.log(revealWords(wordsList1, template1));
-
-const wordsList2 = 'great, learning';
-const template2 = 'softuni is ***** place for ******** new programming languages';
-console.log(revealWords(wordsList2, template2));
+console.log(revealWords('great', 'softuni is ***** place for learning new programming languages'));
+console.log(revealWords('great, learning', 'softuni is ***** place for ******** new programming languages'));
