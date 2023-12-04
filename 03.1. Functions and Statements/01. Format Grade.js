@@ -20,7 +20,6 @@ function printGradeDescription(grade) {
     }
 }
 
-// Example usage:
 printGradeDescription(3.33);
 printGradeDescription(4.50);
 printGradeDescription(2.99);

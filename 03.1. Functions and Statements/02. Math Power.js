@@ -3,6 +3,5 @@ function mathPower(base, exponent) {
     console.log(result);
 }
 
-// Example usage:
 mathPower(2, 8); // Output: 256
 mathPower(3, 4); // Output: 81
