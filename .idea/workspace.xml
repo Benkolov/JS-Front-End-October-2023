@@ -2,159 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6248b4ae-842e-4003-b889-7bb8dc515a37" name="Changes" comment="Add">
-      <change afterPath="$PROJECT_DIR$/.idea/JS Front-End October 2023.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02.3. More Exercise JS Arrays &amp; Strings/01. login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02.3. More Exercise JS Arrays &amp; Strings/02. bitcoinMining.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02.3. More Exercise JS Arrays &amp; Strings/03. thePyramidOfKingDjoser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03.3. More Exercise Functions and Statements/01. carWash.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03.3. More Exercise Functions and Statements/02. numberModification.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03.3. More Exercise Functions and Statements/03. pointsValidation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03.3. More Exercise Functions and Statements/04. radioCrystals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03.3. More Exercise Functions and Statements/05. printDNA.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.1. Objects and Classes/01. personInfo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.1. Objects and Classes/02. city.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.1. Objects and Classes/03. convertToObject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.1. Objects and Classes/04. convertToJSON.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.1. Objects and Classes/05. phoneBook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.1. Objects and Classes/06. meetings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.1. Objects and Classes/07. addressBook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.1. Objects and Classes/08. cats.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.1. Objects and Classes/9. songs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.2. Exercise Objects and Classes/01. employees.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.2. Exercise Objects and Classes/02. towns.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.2. Exercise Objects and Classes/03. storeProvision.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.2. Exercise Objects and Classes/04. movies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.2. Exercise Objects and Classes/05. inventory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.2. Exercise Objects and Classes/06. wordTracker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.2. Exercise Objects and Classes/07. oddOccurrences.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.2. Exercise Objects and Classes/08. piccolo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.2. Exercise Objects and Classes/09. makeADictionary.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.2. Exercise Objects and Classes/10. classVehicle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.3. More Exercise Objects and Classes/01. classStorage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.3. More Exercise Objects and Classes/02. catalogue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.3. More Exercise Objects and Classes/03. classLaptop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.3. More Exercise Objects and Classes/04. flightSchedule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.3. More Exercise Objects and Classes/05. schoolRegister.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.3. More Exercise Objects and Classes/06. browserHistory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.3. More Exercise Objects and Classes/07. sequences.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.3. More Exercise Objects and Classes/08. garage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.3. More Exercise Objects and Classes/09. armies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.3. More Exercise Objects and Classes/10. comments.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.3. More Exercise Objects and Classes/11. bookShelf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.3. More Exercise Objects and Classes/12. softUniStudents.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/00.JS-Front-End-DOM-Introduction-Exercise.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/01. Subtraction/01. Substraction.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/01. Subtraction/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/01. Subtraction/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/01. Subtraction/subtract.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/02. Pascal or Camel Case/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/02. Pascal or Camel Case/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/02. Pascal or Camel Case/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/03. Accordion/02. Accordion.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/03. Accordion/accordion.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/03. Accordion/accordion.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/03. Accordion/accordion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/04. Search in List/list.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/04. Search in List/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/04. Search in List/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/05. Table - Search Engine/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/05. Table - Search Engine/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/05. Table - Search Engine/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/06. Format the Text/softuni-wallpaper-5-1920x1080.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/06. Format the Text/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/06. Format the Text/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/06. Format the Text/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/07. Hell's Kitchen/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/07. Hell's Kitchen/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/07. Hell's Kitchen/softuni-wallpaper-1-1920x1080.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/07. Hell's Kitchen/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/08. Generate Report/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/08. Generate Report/report.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/08. Generate Report/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/09. Number Convertor/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/09. Number Convertor/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05.2. Exercise DOM Introduction/09. Number Convertor/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/00.JS-Front-End-DOM-Events-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/00.JS-Front-End-DOM-Events.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/01. List-Of-Items/List-Of-Items.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/01. List-Of-Items/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/01. List-Of-Items/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/01. List-Of-Items/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/02. Delete-From-Table/02. Delete-From-Table.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/02. Delete-From-Table/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/02. Delete-From-Table/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/02. Delete-From-Table/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/03. Add-Delete/Add-Delete.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/03. Add-Delete/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/03. Add-Delete/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/03. Add-Delete/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/04. Mouse-Gradient/04. Mouse-Gradient.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/04. Mouse-Gradient/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/04. Mouse-Gradient/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/04. Mouse-Gradient/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/05. Highlight-Active/05. Hightlight-Active.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/05. Highlight-Active/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/05. Highlight-Active/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/05. Highlight-Active/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/06. Dynamic-Validation/06. Dynamic-Validation.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/06. Dynamic-Validation/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/06. Dynamic-Validation/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/06. Dynamic-Validation/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/07. Shopping-Cart/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/07. Shopping-Cart/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/07. Shopping-Cart/images/wizard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/07. Shopping-Cart/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/07. Shopping-Cart/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/07. Shopping-Cart/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/00.JS-Front-End-DOM-Events-Exercise.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/01. Sections/01. Sections.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/01. Sections/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/01. Sections/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/01. Sections/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/02. Time-Converter/02. Time-Converter.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/02. Time-Converter/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/02. Time-Converter/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/02. Time-Converter/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/03. Locked-Profile/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/03. Locked-Profile/iconProfile2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/03. Locked-Profile/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/03. Locked-Profile/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/04. Fill-Dropdown/02. Fill-Dropdown.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/04. Fill-Dropdown/dropdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/04. Fill-Dropdown/filldropdown.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/04. Fill-Dropdown/filldropdown.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/05. Encode-and-Decode-Messages/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/05. Encode-and-Decode-Messages/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/05. Encode-and-Decode-Messages/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/06. Furniture/furniture.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/06. Furniture/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/06. Furniture/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/06. Furniture/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/07. Distance-Converter/07. Distance-Converter.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/07. Distance-Converter/converter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/07. Distance-Converter/distanceConverter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/07. Distance-Converter/distanceConverter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/08. Sudomu/9x9/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/08. Sudomu/9x9/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/08. Sudomu/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/08. Sudomu/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/08. Sudomu/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/09. JavaScript-Quiz/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/09. JavaScript-Quiz/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06.2. Exercise DOM Manipulation and Events/09. JavaScript-Quiz/template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03.1. Functions and Statements/01. Format Grade.js" beforeDir="false" afterPath="$PROJECT_DIR$/03.1. Functions and Statements/01. Format Grade.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03.1. Functions and Statements/02. Math Power.js" beforeDir="false" afterPath="$PROJECT_DIR$/03.1. Functions and Statements/02. Math Power.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04.2. Exercise Objects and Classes/04.JS-Front-end-Objects-and-Classes-Exercise.docx" beforeDir="false" afterPath="$PROJECT_DIR$/04.2. Exercise Objects and Classes/00.JS-Front-end-Objects-and-Classes-Exercise.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04.3. More Exercise Objects and Classes/04.JS-Front-end-Objects-and-Classes-More-Exercise.docx" beforeDir="false" afterPath="$PROJECT_DIR$/04.3. More Exercise Objects and Classes/00.JS-Front-end-Objects-and-Classes-More-Exercise.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05.1. DOM Introduction/01.Edit Element/EditElement.js" beforeDir="false" afterPath="$PROJECT_DIR$/05.1. DOM Introduction/01.Edit Element/EditElement.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05.1. DOM Introduction/05.JS-Front-End-DOM-Introduction-Lab.docx" beforeDir="false" afterPath="$PROJECT_DIR$/05.1. DOM Introduction/00. JS-Front-End-DOM-Introduction-Lab.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05.1. DOM Introduction/05.JS-Front-End-DOM-Introduction.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/05.1. DOM Introduction/00. JS-Front-End-DOM-Introduction.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05.1. DOM Introduction/02.Collect List Items/CollectListItems.js" beforeDir="false" afterPath="$PROJECT_DIR$/05.1. DOM Introduction/02.Collect List Items/CollectListItems.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05.1. DOM Introduction/02.Collect List Items/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/05.1. DOM Introduction/02.Collect List Items/template.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,7 +84,7 @@
       <workItem from="1700034447211" duration="9544000" />
       <workItem from="1701176905144" duration="2508000" />
       <workItem from="1701183354965" duration="2095000" />
-      <workItem from="1701682940324" duration="3783000" />
+      <workItem from="1701682940324" duration="6349000" />
     </task>
     <task id="LOCAL-00001" summary="Add">
       <created>1699866437173</created>
@@ -285,7 +135,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701182698156</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add">
+      <created>1701686814631</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1701686814631</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add">
+      <created>1701964119257</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1701964119257</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
