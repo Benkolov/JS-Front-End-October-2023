@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6248b4ae-842e-4003-b889-7bb8dc515a37" name="Changes" comment="Add">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05.1. DOM Introduction/03.Sum Numbers/SumNumbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/05.1. DOM Introduction/03.Sum Numbers/SumNumbers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05.1. DOM Introduction/04.Show More/ShowMore.js" beforeDir="false" afterPath="$PROJECT_DIR$/05.1. DOM Introduction/04.Show More/ShowMore.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05.1. DOM Introduction/05.Colorize Table/ColorizeTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/05.1. DOM Introduction/05.Colorize Table/ColorizeTable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05.1. DOM Introduction/06.Sum Table/SumTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/05.1. DOM Introduction/06.Sum Table/SumTable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05.1. DOM Introduction/07.Extract Parenthesis/ExtractParenthesis.js" beforeDir="false" afterPath="$PROJECT_DIR$/05.1. DOM Introduction/07.Extract Parenthesis/ExtractParenthesis.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/01. List-Of-Items/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/01. List-Of-Items/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,7 @@
       <workItem from="1701176905144" duration="2508000" />
       <workItem from="1701183354965" duration="2095000" />
       <workItem from="1701682940324" duration="7195000" />
-      <workItem from="1702550733222" duration="4109000" />
+      <workItem from="1702550733222" duration="10359000" />
     </task>
     <task id="LOCAL-00001" summary="Add">
       <created>1699866437173</created>
@@ -165,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702025866336</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add">
+      <created>1702569405971</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1702569405971</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
