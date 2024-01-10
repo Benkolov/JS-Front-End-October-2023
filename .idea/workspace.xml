@@ -2,10 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6248b4ae-842e-4003-b889-7bb8dc515a37" name="Changes" comment="Add">
+      <change afterPath="$PROJECT_DIR$/10.1. Exam Preparation/01.MotoGP Race/01.MotoGP Race_Solution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1. Exam Preparation/01.MotoGP Race/motogp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1. Exam Preparation/02.Scholarship/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1. Exam Preparation/02.Scholarship/app_Author's Solution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1. Exam Preparation/02.Scholarship/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1. Exam Preparation/02.Scholarship/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1. Exam Preparation/03.Vacation Schedule/03.Vacation Schedule_Resources.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1. Exam Preparation/03.Vacation Schedule/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1. Exam Preparation/03.Vacation Schedule/app_Author's Solution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1. Exam Preparation/03.Vacation Schedule/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1. Exam Preparation/03.Vacation Schedule/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1. Exam Preparation/03.Vacation Schedule/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1. Exam Preparation/03.Vacation Schedule/server/data/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1. Exam Preparation/03.Vacation Schedule/server/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1. Exam Preparation/03.Vacation Schedule/style/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1. Exam Preparation/03.Vacation Schedule/style/img/completed-order.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1. Exam Preparation/03.Vacation Schedule/style/img/image-21.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1. Exam Preparation/03.Vacation Schedule/style/img/slider_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1. Exam Preparation/03.Vacation Schedule/style/img/slider_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1. Exam Preparation/03.Vacation Schedule/tests for latest version of playwright-chromium/e2e.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1. Exam Preparation/03.Vacation Schedule/tests/e2e.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1. Exam Preparation/JS Front-end Exam Preparation-1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.2. Exam Preparation/01.Astro Adventure/astroAdventure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.2. Exam Preparation/02. Dart Scoring/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.2. Exam Preparation/02. Dart Scoring/css/DkCrayonCrumble-ddll.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.2. Exam Preparation/02. Dart Scoring/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.2. Exam Preparation/02. Dart Scoring/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.2. Exam Preparation/03.Weather Tracker/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.2. Exam Preparation/03.Weather Tracker/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.2. Exam Preparation/03.Weather Tracker/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.2. Exam Preparation/03.Weather Tracker/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.2. Exam Preparation/03.Weather Tracker/server/data/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.2. Exam Preparation/03.Weather Tracker/server/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.2. Exam Preparation/03.Weather Tracker/style/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.2. Exam Preparation/03.Weather Tracker/style/img/vecteezy_white-cloud-clipart-design-illustration_9302650_805.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.2. Exam Preparation/03.Weather Tracker/tests for latest version of playwright-chromium/e2e.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.2. Exam Preparation/03.Weather Tracker/tests/e2e.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.2. Exam Preparation/03.Weather Tracker/tests/ta,js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.2. Exam Preparation/JS Front-end Exam Preparation-2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Regular Exam/01.Cafeteria/01.Cafeteria-Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Regular Exam/01.Cafeteria/cafeteria.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Regular Exam/02. Expense Tracker/02.Expense Tracker_Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Regular Exam/02. Expense Tracker/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Regular Exam/02. Expense Tracker/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Regular Exam/02. Expense Tracker/images/money-png-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Regular Exam/02. Expense Tracker/images/pexels-skitterphoto-9660 (1) (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Regular Exam/02. Expense Tracker/images/wallet-png-25148.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Regular Exam/02. Expense Tracker/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Regular Exam/03. Daily Calorie Counter/03.Daily-Calorie-Counter_Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Regular Exam/03. Daily Calorie Counter/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Regular Exam/03. Daily Calorie Counter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Regular Exam/03. Daily Calorie Counter/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Regular Exam/03. Daily Calorie Counter/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Regular Exam/03. Daily Calorie Counter/server/data/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Regular Exam/03. Daily Calorie Counter/server/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Regular Exam/03. Daily Calorie Counter/style/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Regular Exam/03. Daily Calorie Counter/style/img/pexels-andres-ayrton-6551090.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Regular Exam/03. Daily Calorie Counter/style/img/plate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Regular Exam/03. Daily Calorie Counter/style/img/vecteezy_white-cloud-clipart-design-illustration_9302650_805.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Regular Exam/03. Daily Calorie Counter/tests for latest version of playwright-chromium/e2e.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Regular Exam/03. Daily Calorie Counter/tests for latest version of playwright-chromium/ta,js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Regular Exam/03. Daily Calorie Counter/tests/e2e.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Regular Exam/03. Daily Calorie Counter/tests/ta,js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05.1. DOM Introduction/06.Sum Table/SumTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/05.1. DOM Introduction/06.Sum Table/SumTable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05.1. DOM Introduction/07.Extract Parenthesis/ExtractParenthesis.js" beforeDir="false" afterPath="$PROJECT_DIR$/05.1. DOM Introduction/07.Extract Parenthesis/ExtractParenthesis.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/01. List-Of-Items/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/01. List-Of-Items/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/02. Delete-From-Table/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/06.1. DOM Manipulation and Events/02. Delete-From-Table/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,41 +96,49 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/bbenk/OneDrive/Desktop/JS Front-End October 2023&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bbenk/OneDrive/Desktop/JS Front-End October 2023/11. Regular Exam/03. Daily Calorie Counter&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bbenk\OneDrive\Desktop\JS Front-End October 2023\11. Regular Exam\03. Daily Calorie Counter" />
+      <recent name="C:\Users\bbenk\OneDrive\Desktop\JS Front-End October 2023\11. Regular Exam\02. Expense Tracker" />
+      <recent name="C:\Users\bbenk\OneDrive\Desktop\JS Front-End October 2023\11. Regular Exam\01.Cafeteria" />
+      <recent name="C:\Users\bbenk\OneDrive\Desktop\JS Front-End October 2023\11. Regular Exam" />
+      <recent name="C:\Users\bbenk\OneDrive\Desktop\JS Front-End October 2023\10.   Exam Preparation\03.Vacation Schedule" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\bbenk\OneDrive\Desktop\JS Front-End October 2023\06.2. Exercise DOM Manipulation and Events" />
-      <recent name="C:\Users\bbenk\OneDrive\Desktop\JS Front-End October 2023\06.1. DOM Manipulation and Events" />
-      <recent name="C:\Users\bbenk\OneDrive\Desktop\JS Front-End October 2023\05.2. Exercise DOM Introduction" />
-      <recent name="C:\Users\bbenk\OneDrive\Desktop\JS Front-End October 2023" />
-      <recent name="C:\Users\bbenk\OneDrive\Desktop\JS Front-End October 2023\05.1. DOM Introduction" />
+      <recent name="C:\Users\bbenk\OneDrive\Desktop\JS Front-End October 2023\11. Regular Exam\03. Daily Calorie Counter" />
+      <recent name="C:\Users\bbenk\OneDrive\Desktop\JS Front-End October 2023\11. Regular Exam\02. Expense Tracker" />
+      <recent name="C:\Users\bbenk\OneDrive\Desktop\JS Front-End October 2023\10.2. Exam Preparation" />
+      <recent name="C:\Users\bbenk\OneDrive\Desktop\JS Front-End October 2023\11. Regular Exam" />
+      <recent name="C:\Users\bbenk\OneDrive\Desktop\JS Front-End October 2023\10.   Exam Preparation" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.10. Factorial Division.js">
-    <configuration name="06. Password Validator.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/03.2. Exercise Functions and Statements/06. Password Validator.js" working-dir="$PROJECT_DIR$/03.2. Exercise Functions and Statements">
-      <method v="2" />
-    </configuration>
-    <configuration name="07. NxN Matrix.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/03.2. Exercise Functions and Statements/07. NxN Matrix.js" working-dir="$PROJECT_DIR$/03.2. Exercise Functions and Statements">
-      <method v="2" />
-    </configuration>
-    <configuration name="08. Perfect Number.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/03.2. Exercise Functions and Statements/08. Perfect Number.js" working-dir="$PROJECT_DIR$/03.2. Exercise Functions and Statements">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.cafeteria.js">
     <configuration name="09. Loading Bar.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/03.2. Exercise Functions and Statements/09. Loading Bar.js" working-dir="$PROJECT_DIR$/03.2. Exercise Functions and Statements">
       <method v="2" />
     </configuration>
     <configuration name="10. Factorial Division.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/03.2. Exercise Functions and Statements/10. Factorial Division.js" working-dir="$PROJECT_DIR$/03.2. Exercise Functions and Statements">
       <method v="2" />
     </configuration>
+    <configuration name="astroAdventure.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/10.2. Exam Preparation/01.Astro Adventure/astroAdventure.js" working-dir="$PROJECT_DIR$/10.2. Exam Preparation/01.Astro Adventure">
+      <method v="2" />
+    </configuration>
+    <configuration name="cafeteria.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/11. Regular Exam/01.Cafeteria/cafeteria.js" working-dir="$PROJECT_DIR$/11. Regular Exam/01.Cafeteria">
+      <method v="2" />
+    </configuration>
+    <configuration name="motogp.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/10.1. Exam Preparation/01.MotoGP Race/motogp.js" working-dir="$PROJECT_DIR$/10.1. Exam Preparation/01.MotoGP Race">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.cafeteria.js" />
+        <item itemvalue="Node.js.astroAdventure.js" />
+        <item itemvalue="Node.js.motogp.js" />
         <item itemvalue="Node.js.10. Factorial Division.js" />
         <item itemvalue="Node.js.09. Loading Bar.js" />
-        <item itemvalue="Node.js.08. Perfect Number.js" />
-        <item itemvalue="Node.js.07. NxN Matrix.js" />
-        <item itemvalue="Node.js.06. Password Validator.js" />
       </list>
     </recent_temporary>
   </component>
@@ -86,7 +155,9 @@
       <workItem from="1701176905144" duration="2508000" />
       <workItem from="1701183354965" duration="2095000" />
       <workItem from="1701682940324" duration="7195000" />
-      <workItem from="1702550733222" duration="10359000" />
+      <workItem from="1702550733222" duration="32524000" />
+      <workItem from="1702734676482" duration="29000" />
+      <workItem from="1702734909183" duration="60000" />
     </task>
     <task id="LOCAL-00001" summary="Add">
       <created>1699866437173</created>
@@ -172,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702569405971</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Add">
+      <created>1702577998877</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1702577998877</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
